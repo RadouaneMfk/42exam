@@ -1,0 +1,11 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "2"         🔎 YOUR OUTPUT:
+duplicate symbol '_main' in:
+    /var/folders/zz/zyxvpxvq6csfxvn_n000cfxc0033qb/T/print_bits-6114aa.o
+    /var/folders/zz/zyxvpxvq6csfxvn_n000cfxc0033qb/T/main-92baf3.o
+ld: 1 duplicate symbol for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]
